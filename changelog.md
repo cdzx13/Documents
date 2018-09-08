@@ -1,5 +1,5 @@
 # 更新日志
-查看开发计划，请访问 [Trello](https://trello.com/b/jdoIGajS/paratranz-%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92)
+查看开发计划及当前进度，请访问 [Trello](https://trello.com/b/jdoIGajS/paratranz-%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92)
 
 ## 2.0 - 2018.9.6
 1. 增加多语言支持，已有简体中文、繁体中文、日语及英语四种语言
