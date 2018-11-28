@@ -1,5 +1,5 @@
 # 更新日志
-查看开发计划及当前进度，请访问 [Trello](https://trello.com/b/jdoIGajS/paratranz-%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92)#
+查看开发计划及当前进度，请访问 [Trello](https://trello.com/b/jdoIGajS/paratranz-%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92)
 
 ## 2.3 - 2018.11.28
 1. 增加 makrdown 编辑器，公告、讨论及私信均已支持 GitHub 风格的 markdown 格式
