@@ -2,7 +2,7 @@
 查看开发计划及当前进度，请访问 [Trello](https://trello.com/b/jdoIGajS/paratranz-%E5%B9%B3%E5%8F%B0%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92)#
 
 ## 2.3 - 2018.11.28
-1. 增加 makrdown 编辑器，公告、私信均已支持 GitHub 风格的 markdown 格式
+1. 增加 makrdown 编辑器，公告、讨论及私信均已支持 GitHub 风格的 markdown 格式
 2. 增加 @ 其他用户并提醒的功能
 3. 改版私信，现在私信与消息已经完全分离，并且有一个全新的界面
 4. 增加文件内搜索词条功能
